@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, me llamo MIguel Beigveder 👋
+
+Me licencié en C.C. Biológicas pero siempre he trabajado en Laboratorios de Calibración y como Asesor de Sistemas de Gestión de Calidad, tanto para la Administración Pública como para varias empresas privadas.
+
+Me gusta mucho la informática, hardware y software. He montado varios ordenadores de sobremesa y he hecho algunas aplicaciones en C y Visual Basic, ahora estoy aprendiendo Python.
+Sigo siendo un aficionado y mi objetivo es aprender todo lo que pueda, mientras pueda... 
+
+
 
 <!--
 **mbeicle/mbeicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
