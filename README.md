@@ -8,13 +8,13 @@ Sigo siendo un aficionado y mi objetivo es aprender todo lo que pueda, mientras 
 
 El último semestre he cursado los módulos B1 y B2 del **Curso de Programación en Python** que se imparte en la UOC (Universitat Oberta de Catalunya), cada módulo tiene una carga de 6 créditos, con una dedicación estimada de 150 horas (25 horas por crédito).
 
-## Microcredenciales
+### Microcredenciales
 
 Para cada uno de estos módulos, he obtenido una microcredencial: Certificaciones Digitales que proporcionan toda la información necesaria para demostrar la competencia profesional y compartirla con empleadores o centros de formación. 
 
-https://apps.uoc.edu/GDD_Utils/CertificateUOC?GUID=799fb869-f0ec-4a70-a56c-3a268c3d04cf
+[Nivel B1](https://apps.uoc.edu/GDD_Utils/CertificateUOC?GUID=799fb869-f0ec-4a70-a56c-3a268c3d04cf)
 
-https://apps.uoc.edu/GDD_Utils/CertificateUOC?GUID=5ae694d5-b789-4d82-b703-9e17a9e18ca4
+[Nivel B2](https://apps.uoc.edu/GDD_Utils/CertificateUOC?GUID=5ae694d5-b789-4d82-b703-9e17a9e18ca4)
 
 
 
