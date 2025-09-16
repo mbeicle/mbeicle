@@ -16,7 +16,7 @@ Para cada uno de estos módulos, he obtenido una microcredencial: Certificacione
 
 [Nivel B2](https://apps.uoc.edu/GDD_Utils/CertificateUOC?GUID=5ae694d5-b789-4d82-b703-9e17a9e18ca4)
 
-
+Para el próximo semestre espero comenzar el **Nivel C1**.
 
 <!--
 **mbeicle/mbeicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
