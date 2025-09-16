@@ -6,7 +6,7 @@ Me licencié en C.C. Biológicas ![https://github.com/mbeicle](./Bio.png) pero s
 Me gusta mucho la informática, hardware y software. He montado unos cuantos ordenadores de sobremesa y he hecho algunas aplicaciones en C y Visual Basic, ahora estoy aprendiendo Python.
 Sigo siendo un aficionado y mi objetivo es aprender todo lo que pueda, mientras pueda... 
 
-El último semestre he cursado los módulos B1 y B2 del ## Curso de Programación en Python que se imparte en la UOC (Universitat Oberta de Catalunya), cada módulo tiene una carga de 6 créditos, con una dedicación estimada de 150 horas (25 horas por crédito).
+El último semestre he cursado los módulos B1 y B2 del **Curso de Programación en Python** que se imparte en la UOC (Universitat Oberta de Catalunya), cada módulo tiene una carga de 6 créditos, con una dedicación estimada de 150 horas (25 horas por crédito).
 
 ## Microcredenciales
 
