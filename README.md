@@ -1,8 +1,8 @@
-### Hola, me llamo MIguel Beigveder 👋
+### Hola, me llamo Miguel Beigveder 👋
 
 Me licencié en C.C. Biológicas pero siempre he trabajado en Laboratorios de Calibración y como Asesor de Sistemas de Gestión de Calidad, tanto para la Administración Pública como para varias empresas privadas.
 
-Me gusta mucho la informática, hardware y software. He montado varios ordenadores de sobremesa y he hecho algunas aplicaciones en C y Visual Basic, ahora estoy aprendiendo Python.
+Me gusta mucho la informática, hardware y software. He montado unos cuantos ordenadores de sobremesa y he hecho algunas aplicaciones en C y Visual Basic, ahora estoy aprendiendo Python.
 Sigo siendo un aficionado y mi objetivo es aprender todo lo que pueda, mientras pueda... 
 
 
