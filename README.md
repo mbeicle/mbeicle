@@ -1,6 +1,6 @@
 ### Hola, me llamo Miguel Beigveder 👋
 
-![https://github.com/mbeicle](./bio.png)
+![https://github.com/mbeicle](./Bio.png)
 
 Me licencié en C.C. Biológicas pero siempre he trabajado en Laboratorios de Calibración y como Asesor de Sistemas de Gestión de Calidad, tanto para la Administración Pública como para varias empresas privadas.
 
